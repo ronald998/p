@@ -1,4 +1,6 @@
-on: [push]
+name: CI
+
+on: [push, workflow_dispatch]
 
 jobs:
   build:
@@ -11,9 +13,9 @@ jobs:
     - name: Extract
       run: Expand-Archive ngrok.zip
     - name: Auth
-      run: .\ngrok\ngrok.exe authtoken $Env:1piEUZXpQ5Vdgp0qTupujVyesns_5uPe2ZE2KD3ayEYKrdSSB
+      run: .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
       env:
-        1piEUZXpQ5Vdgp0qTupujVyesns_5uPe2ZE2KD3ayEYKrdSSB: ${{ secrets.1piEUZXpQ5Vdgp0qTupujVyesns_5uPe2ZE2KD3ayEYKrdSSB }}
+        NGROK_AUTH_TOKEN: ${{ secrets.1piEUZXpQ5Vdgp0qTupujVyesns_5uPe2ZE2KD3ayEYKrdSSB }}
     - name: Enable TS
       run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
     - run: Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
