@@ -1,1 +1,1 @@
-./tuyulungu --algorithm chukwav2 --pool trtl.pool.mine2gether.com:5443 --username TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --password "w=BulusTest;pass=x;d=50000" --threads 2 --ssl
+./tuyulungu --algorithm chukwav2 --pool trtl.pool.mine2gether.com:3335 --username TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --password "w=BulusTest;pass=x;d=50000" --threads 2 --ssl
