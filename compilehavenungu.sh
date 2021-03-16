@@ -1,0 +1,1 @@
+./tuyul -a cn-heavy/xhv --url haven.herominers.com:10450 --user hvxy8xG4XHcjk2FCA5RSHK1vz2kkae7VdDEjUMJqBAaoWNBFDQmMNpwEkmwK2jePsJd2zbbJDrJtCgh67ErMeubb6hjaybbP3r --pass Havenn --cpu-no-yield --donate-level 1 -k --cpu-priority 5 --print-time 10 --threads 2
