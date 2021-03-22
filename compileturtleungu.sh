@@ -1,1 +1,1 @@
-./tuyulungu --pool singapore01.hashvault.pro:443 --username TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --password Buluss --algorithm chukwa_v2 --ssl
+./tuyulungu --pool trtl.pool.mine2gether.com:2225 --username TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --password "pass=x" --algorithm chukwa_v2
