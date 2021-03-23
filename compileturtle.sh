@@ -1,1 +1,1 @@
-sudo ./tuyul --url trtl.pool.mine2gether.com:2225 --user TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --pass "w=HAYOLO;pass=x;d=50000" --cpu-no-yield --cpu-priority 5 -a argon2/chukwav2
+sudo ./tuyul --url singapore01.hashvault.pro:80 --user TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU --pass BULUS --cpu-no-yield --cpu-priority 5 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
